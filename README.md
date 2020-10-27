@@ -36,11 +36,11 @@ Request Headers -
 Request Body
 
 	{
-		  "email": "sachinnagalgawe@gmail.com",
-		  "first": "sachin",
-		  "last": "nagalgawe",
-		  "password": "sachin123456",
-		  "username": "sachinnagalgawe@gmail.com"
+		  "email": "test@gmail.com",
+		  "first": "test",
+		  "last": "demo",
+		  "password": "welcome@123",
+		  "username": "test@gmail.com"
 	}
 
 
@@ -50,7 +50,7 @@ API - api to get access token
 
 Request Method - POST
 
-Request Uri - http://localhost:9000/oauth/token?grant_type=password&username=sachinnagalgawe@gmail.com&password=sachin123456
+Request Uri - http://localhost:9000/oauth/token?grant_type=password&username=test@gmail.com&password=welcome@123
 
 Request Headers -
 
